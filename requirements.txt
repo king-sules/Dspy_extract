@@ -1,0 +1,5 @@
+dspy
+pydantic
+mlflow
+google-cloud-aiplatform
+jupyter 
